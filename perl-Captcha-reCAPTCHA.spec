@@ -8,13 +8,13 @@
 Summary:	Captcha::reCAPTCHA - A Perl implementation of the reCAPTCHA API
 #Summary(pl.UTF-8):	
 Name:		perl-Captcha-reCAPTCHA
-Version:	0.92
+Version:	0.94
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-authors/id/A/AN/ANDYA/Captcha-reCAPTCHA-0.92.tar.gz
-# Source0-md5:	36b00fa37fd8a17367e1aa2f3b218f34
+Source0:	http://www.cpan.org/modules/by-authors/id/A/AN/ANDYA/Captcha-reCAPTCHA-%{version}.tar.gz
+# Source0-md5:	1b4bf7d20d720ff7ac8622f40d63139e
 URL:		http://search.cpan.org/dist/Captcha-reCAPTCHA/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
