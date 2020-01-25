@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Captcha
 %define	pnam	reCAPTCHA
 Summary:	Captcha::reCAPTCHA - A Perl implementation of the reCAPTCHA API
